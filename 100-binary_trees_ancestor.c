@@ -1,4 +1,5 @@
 #include "binary_trees.h"
+#include "10-binary_tree_depth.c"
 
 /**
  * binary_trees_ancestor - finds lowest ancestor of two nodes
