@@ -86,7 +86,7 @@ In a binary tree, each node has three part i.e., data, pointer to left child and
 [MIT](https://github.com/sayka88/holbertonschool-sorting_algorithms/blob/358e31c50371a7e8cd9f740f4070af6601eb9437/LICENSE.md)
 
 
-## 🔗 Links
+# 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyara-yusupova-55b26a35/)
 
